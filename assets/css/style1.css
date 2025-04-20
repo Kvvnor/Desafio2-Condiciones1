@@ -15,3 +15,17 @@ img {
     margin-top: 7rem;
     cursor: pointer;
 }
+
+.index-condiciones {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}

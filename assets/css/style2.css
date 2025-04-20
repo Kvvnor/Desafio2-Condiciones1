@@ -3,3 +3,41 @@
     padding: auto;
     box-sizing: border-box;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 6rem;
+}
+
+.img1 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.input1 {
+    margin-top: 2rem;
+}
+
+.img2  {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.input2 {
+    margin-top: 2rem;
+}
+
+.img3 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.input3 {
+    margin-top: 2rem;
+}

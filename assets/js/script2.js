@@ -8,6 +8,12 @@ let result = document.querySelector(".result");
 // Agrego un evento al botón    
 button.addEventListenener("click", () => {
 
+    let value1 = input1.value;
+    let value2 = input2.value;
+    let value3 = input3.value;
+
+    let result = value1 + value2 + value3;
+
 })
 
 

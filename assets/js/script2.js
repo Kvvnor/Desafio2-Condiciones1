@@ -5,7 +5,7 @@ let button = document.querySelector('.btn-verify');
 let result = document.querySelector('.event');
 
 
-// Agrego un evento al botón    
+// Agrego un evento al botón y ejecuto la función
 button.addEventListener('click', () => {
 
     let val1 = parseInt(input1.value) || 0;
